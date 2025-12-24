@@ -101,6 +101,16 @@ I’m a **Full-Stack Java Developer** with strong backend expertise in **Java an
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: katukurijaswanth2@gmail.com  
-- 💼 LinkedIn:(https://www.linkedin.com/in/jaswanth-katukuri-a00a87307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs7AhU%2F94SfOmxA4Nbd3mEQ%3D%3D)
-- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+<p align="center">
+  <a href="mailto:katukurijaswanth2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jaswanth-katukuri-a00a87307/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+

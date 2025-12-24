@@ -8,6 +8,14 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1hu83NZzEtUpiGcIjJVbQhXT00momY0f1" 
+       alt="Jaswanth Katukuri" 
+       width="600" 
+       style="border-radius:50%; box-shadow: 4px 4px 12px rgba(0,0,0,0.4);"/>
 </p>
 
 ---

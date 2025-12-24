@@ -1,46 +1,106 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaswanth Katukuri  
+### 🚀 Full-Stack Java Developer | Spring Boot | React.js
 
-# Hi, I'm Jaswanth Katukuri 👋
-🚀 Full Stack Java Developer | 💻 Frontend & Backend | 🌱 Lifelong Learner
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 MCA Student @ Vaagdevi College of Engineering  
-- 💻 Skilled in **Java, Spring Boot, React, MySQL**  
-- 🌟 Passionate about building scalable web applications  
-- 🏆 Goal: To become a Pro Full Stack Developer  
-
----
-
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+## 🚀 About Me
+I’m a **Full-Stack Java Developer** with strong backend expertise in **Java and Spring Boot** and hands-on experience building **responsive, user-focused frontend applications** using React.js. I specialize in designing **RESTful APIs**, implementing clean layered architectures, and integrating databases to deliver **scalable, production-ready solutions**. I enjoy bridging frontend creativity with backend robustness to build systems that last.
 
 ---
 
 ## 📊 GitHub Stats
-![Jaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katukurijaswanth2&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katukurijaswanth2&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katukurijaswanth2&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:katukurijaswanth2@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true"/>
+</p>
 
 ---
 
-## 🌟 Featured Projects
-- [Library Management System](https://github.com/katukurijaswanth2/LibraryManagementSystem)  
-- [Tech Shop](https://github.com/katukurijaswanth2/TECH-SHOP)  
-- [Meal Finder App](https://github.com/katukurijaswanth2/MealFinder)  
-- [JavaScript Fun Projects](https://github.com/katukurijaswanth2/JAVA-SCRIPT--FUN-PROJECTS)  
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🍽️ Foodie Go – Recipe Discovery App
+**HTML | CSS | JavaScript | API Integration**
+- Built a recipe discovery platform serving 500+ recipes using external APIs  
+- Implemented advanced search filters and responsive UI  
+- Improved mobile accessibility by 40% and reduced load time by 25%  
+
+---
+
+### 🏫 Greenwood High School Website
+**React.js | Bootstrap | Tailwind CSS**
+- Designed a fully responsive and user-friendly interface  
+- Increased site traffic and admissions inquiries by 20%  
+- Added interactive navigation, sliders, and contact forms  
+
+---
+
+### 🧑‍💼 Employee Management System (Backend)
+**Java | Spring Boot | REST APIs | MySQL**
+- Built a backend system using Spring Boot and layered architecture  
+- Implemented CRUD operations with validation and JPA integration  
+- Added global exception handling for scalability and reliability  
+
+---
+
+## 🏆 Achievements
+- Trained 500+ students in Frontend Development  
+- Led a team project recognized at Software Expo 2024  
+- Awarded Best Presentation on Natural Language Processing (NLP)  
+
+---
+
+## 🎯 What I Bring
+- Strong backend foundation in **Java & Spring Boot**  
+- Full-stack adaptability and clean code practices  
+- System design mindset and scalability focus  
+- Strong communication and teaching experience  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: katukurijaswanth2@gmail.com  
+- 💼 LinkedIn: <your-link-here>  
+- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME

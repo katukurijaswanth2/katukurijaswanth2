@@ -62,7 +62,9 @@ I’m a **Full-Stack Java Developer** with strong backend expertise in **Java an
 ## 🚀 Projects
 
 ### 🍽️ Foodie Go – Recipe Discovery App  
-🔗 **Repository:** [View on GitHub](REPO_LINK_HERE)
+🔗 <a href="https://github.com/katukurijaswanth2/Foodiego.git">
+<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 **Tech Stack:** HTML | CSS | JavaScript | REST API Integration  
 - Built a recipe discovery platform serving **500+ recipes** using external APIs  

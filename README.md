@@ -61,27 +61,34 @@ I’m a **Full-Stack Java Developer** with strong backend expertise in **Java an
 
 ## 🚀 Projects
 
-### 🍽️ Foodie Go – Recipe Discovery App
-**HTML | CSS | JavaScript | API Integration**
-- Built a recipe discovery platform serving 500+ recipes using external APIs  
-- Implemented advanced search filters and responsive UI  
-- Improved mobile accessibility by 40% and reduced load time by 25%  
+### 🍽️ Foodie Go – Recipe Discovery App  
+🔗 **Repository:** [View on GitHub](REPO_LINK_HERE)
+
+**Tech Stack:** HTML | CSS | JavaScript | REST API Integration  
+- Built a recipe discovery platform serving **500+ recipes** using external APIs  
+- Implemented advanced search filters and fully responsive UI  
+- Improved mobile accessibility by **40%** and reduced load time by **25%**
 
 ---
 
-### 🏫 Greenwood High School Website
-**React.js | Bootstrap | Tailwind CSS**
-- Designed a fully responsive and user-friendly interface  
-- Increased site traffic and admissions inquiries by 20%  
-- Added interactive navigation, sliders, and contact forms  
+### 🏫 Greenwood High School Website  
+🔗 **Repository:** [View on GitHub](REPO_LINK_HERE)
+
+**Tech Stack:** React.js | Bootstrap | Tailwind CSS  
+- Designed a **fully responsive** and user-friendly website  
+- Increased site traffic and admissions inquiries by **20%**  
+- Added interactive navigation, sliders, and contact forms to enhance UX
 
 ---
 
-### 🧑‍💼 Employee Management System (Backend)
-**Java | Spring Boot | REST APIs | MySQL**
-- Built a backend system using Spring Boot and layered architecture  
-- Implemented CRUD operations with validation and JPA integration  
-- Added global exception handling for scalability and reliability  
+### 🧑‍💼 Employee Management System (Backend)  
+🔗 **Repository:** [View on GitHub](REPO_LINK_HERE)
+
+**Tech Stack:** Java | Spring Boot | REST APIs | MySQL  
+- Built a backend system using **Spring Boot** with layered architecture  
+- Implemented **CRUD operations**, validation, and JPA-based database integration  
+- Added **global exception handling** and reusable service layers for scalability and reliability
+  
 
 ---
 

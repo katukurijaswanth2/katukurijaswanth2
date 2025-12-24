@@ -41,6 +41,7 @@ I’m a **Full-Stack Java Developer** with strong backend expertise in **Java an
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+ <img src="./assets/person1.jpg" alt="person" width="400" height="600" align="right">
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python"/>
 </p>

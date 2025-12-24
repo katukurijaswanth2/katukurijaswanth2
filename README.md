@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=0&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=60&k=1"/>
 
-<img src="https://drive.google.com/uc?export=view&id=1hu83NZzEtUpiGcIjJVbQhXT00momY0f1" alt="Profile Pic" width="160" style="border-radius: 50%; border: 5px solid #0d1117; margin-top: -90px; box-shadow: 0px 8px 25px rgba(66, 153, 225, 0.5); position: relative; z-index: 5; background-color: #0d1117;"/>
+<img src="https://drive.google.com/uc?export=view&id=1hu83NZzEtUpiGcIjJVbQhXT00momY0f1" alt="Profile Pic" width="660" style="border-radius: 50%; border: 5px solid #0d1117; margin-top: -90px; box-shadow: 0px 8px 25px rgba(66, 153, 225, 0.5); position: relative; z-index: 5; background-color: #0d1117;"/>
 
 <h1 style="font-size: 2.5rem; margin-bottom: 10px;">Hi there, I'm Jaswanth Katukuri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 

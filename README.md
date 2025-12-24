@@ -73,18 +73,10 @@ I’m a **Full-Stack Java Developer** with strong backend expertise in **Java an
 
 ---
 
-### 🏫 Greenwood High School Website  
-🔗 **Repository:** [View on GitHub](REPO_LINK_HERE)
-
-**Tech Stack:** React.js | Bootstrap | Tailwind CSS  
-- Designed a **fully responsive** and user-friendly website  
-- Increased site traffic and admissions inquiries by **20%**  
-- Added interactive navigation, sliders, and contact forms to enhance UX
-
----
-
 ### 🧑‍💼 Employee Management System (Backend)  
-🔗 **Repository:** [View on GitHub](REPO_LINK_HERE)
+🔗 <a href="https://github.com/katukurijaswanth2/employee_management.git">
+<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 **Tech Stack:** Java | Spring Boot | REST APIs | MySQL  
 - Built a backend system using **Spring Boot** with layered architecture  

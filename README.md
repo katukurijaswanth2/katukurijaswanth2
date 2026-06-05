@@ -99,7 +99,7 @@ class Jaswanth extends Engineer {
 > ###  Meal Prep Planner &nbsp; `[ Latest ]`
 > *Full-stack meal planning — from food discovery to kitchen execution*
 >
-> `React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `PostgreSQL` &nbsp; `MealDB API`
+> `React` &nbsp; `SpringBoot` &nbsp; `Express` &nbsp; `PostgreSQL` &nbsp; `MealDB API`
 >
 > → Dynamic category browsing from MealDB API with React routing (`/category/:name`)  
 > → REST API: `GET` · `POST` · `DELETE /api/meals` with full PostgreSQL persistence  

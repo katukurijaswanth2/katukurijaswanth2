@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://jaswanthkatukuri4.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0c0c12,50:5c61fb,100:3b82f6&section=header&text=Jaswanth%20Katukuri&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Portfolio%20%C2%B7%20React%20%2B%20Vite&descSize=20&descAlignY=60" alt="Jaswanth Katukuri Portfolio" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0c0c12,50:5c61fb,100:3b82f6&section=header&text=Jaswanth%20Katukuri&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc&descSize=20&descAlignY=60" alt="Jaswanth Katukuri Portfolio" width="100%" />
 </a>
 
 <a href="https://jaswanthkatukuri4.vercel.app/">

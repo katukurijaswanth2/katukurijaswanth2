@@ -185,7 +185,7 @@ Each card pulls live data from its repository. Use the buttons underneath to ope
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/katukurijaswanth2/KatukuriXpress"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/drivewise.png" alt="KatukuriXpress" width="100%" /></a><br />
+      <a href="https://github.com/katukurijaswanth2/KatukuriXpress"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/KatukuriXpress.png" alt="KatukuriXpress" width="100%" /></a><br />
       <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
       <sub>Responsive site with React.js, Tailwind CSS, Redux Toolkit, and JavaScript.</sub><br />
       <img src="https://skillicons.dev/icons?i=react,tailwind,redux,js&theme=dark" height="30" alt="React, Tailwind, Redux, JavaScript" /><br />
@@ -193,7 +193,7 @@ Each card pulls live data from its repository. Use the buttons underneath to ope
       <a href="https://github.com/katukurijaswanth2/KatukuriXpress.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/katukurijaswanth2/Foodiego"><img src="src/assets/foodieGo.jpg" alt="FoodieGo" width="100%" /></a><br />
+      <a href="https://github.com/katukurijaswanth2/Foodiego"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/foodieGo.jpg" alt="FoodieGo" width="100%" /></a><br />
       <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
       <sub>Responsive shopping website built with HTML, CSS, and JavaScript.</sub><br />
       <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="30" alt="HTML, CSS, JavaScript" /><br />
@@ -203,14 +203,14 @@ Each card pulls live data from its repository. Use the buttons underneath to ope
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/katukurijaswanth2/Scholarship-Finder"><img src="src/assets/Grantify.png" alt="Grantify" width="100%" h /></a><br />
+      <a href="https://github.com/katukurijaswanth2/Scholarship-Finder"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/Grantify.png" alt="Grantify" width="100%" h /></a><br />
       <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
       <sub>Grantify helps students find scholarships by income, state, and education level.</sub><br />
       <a href="https://scholarpath-gamma.vercel.app/"><img src="https://img.shields.io/badge/View_live-5c61fb?style=for-the-badge&logo=vercel&logoColor=white" alt="View live" /></a>
       <a href="https://github.com/katukurijaswanth2/Scholarship-Finder.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
     </td>
    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/katukurijaswanth2/drivewise"><img src="src/assets/drivewise.png" alt="DriveWise" width="100%" /></a><br />
+      <a href="https://github.com/katukurijaswanth2/drivewise"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/drivewise.png" alt="DriveWise" width="100%" /></a><br />
       <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
       <sub>DriveWise recommends vehicles based on your income for smarter choices.</sub><br />
       <a href="https://github.com/katukurijaswanth2/drivewise.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
@@ -218,14 +218,14 @@ Each card pulls live data from its repository. Use the buttons underneath to ope
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/katukurijaswanth2/javaProjects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=katukurijaswanth2&repo=javaProjects&theme=tokyonight&bg_color=0c0c12&title_color=5c61fb&icon_color=5c61fb&hide_border=true" alt="PriorityCare" width="100%" /></a><br />
+      <a href="https://github.com/katukurijaswanth2/javaProjects"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/priorityQueue.png" alt="PriorityCare" width="100%" /></a><br />
       <img src="https://img.shields.io/badge/Back_End-6DB33F?style=flat-square&labelColor=0c0c12&color=6DB33F" alt="Back End" /><br />
       <sub>PriorityCare is a hospital triage system that ranks patients with efficient data structures.</sub><br />
       <img src="https://skillicons.dev/icons?i=java&theme=dark" height="30" alt="Java" /><br />
       <a href="https://github.com/katukurijaswanth2/javaProjects.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/katukurijaswanth2/employee_management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=katukurijaswanth2&repo=employee_management&theme=tokyonight&bg_color=0c0c12&title_color=5c61fb&icon_color=5c61fb&hide_border=true" alt="WorkForceHub" width="100%" /></a><br />
+      <a href="https://github.com/katukurijaswanth2/employee_management"><img src="https://github.com/katukurijaswanth2/Portfolio_on_react/blob/main/src/assets/WorkForceHub.png" alt="WorkForceHub" width="100%" /></a><br />
       <img src="https://img.shields.io/badge/Back_End-6DB33F?style=flat-square&labelColor=0c0c12&color=6DB33F" alt="Back End" /><br />
       <sub>WorkForceHub is a Spring Boot employee management REST API with secure CRUD and MySQL.</sub><br />
       <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="30" alt="Java, Spring, MySQL" /><br />

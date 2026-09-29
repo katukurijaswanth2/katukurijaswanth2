@@ -1,245 +1,412 @@
+<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:12102a,100:0a0a0f&height=260&section=header&text=Jaswanth%20Katukuri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Full-Stack%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20AI%20Integrations&descColor=a78bfa&descSize=16&descAlignY=62&stroke=7c3aed&strokeWidth=2"/>
+<a href="https://jaswanthkatukuri4.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0c0c12,50:5c61fb,100:3b82f6&section=header&text=Jaswanth%20Katukuri&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Portfolio%20%C2%B7%20React%20%2B%20Vite&descSize=20&descAlignY=60" alt="Jaswanth Katukuri Portfolio" width="100%" />
+</a>
 
-<br/>
+<a href="https://jaswanthkatukuri4.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=2800&pause=900&color=5C61FB&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Java+Developer;Spring+Boot+APIs%2C+built+to+last;React+interfaces%2C+built+to+feel+fast;Open+the+live+site+%E2%86%93" alt="Typing animation" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=🚀+Promoted+4×+in+18+months+—+junior+→+trusted+engineer;⚙️+Spring+Boot+APIs+%2B+component-driven+React+UIs;🤖+LLM+APIs+integrated+into+real+production+apps;🗄️+PostgreSQL+·+MySQL+·+Microservices+·+REST;📦+5+shipped+projects+across+the+full+stack" alt="Typing SVG" />
+<br />
 
-<br/><br/>
+**A fast, responsive developer portfolio built with React and Vite.**<br />
+Editorial dark hero · interactive D3 education timeline · categorized projects · Medium-powered writing
 
-![Open To Work](https://img.shields.io/badge/✦_Open_To_Work-4ade80?style=for-the-badge&labelColor=052e16&color=052e16)
-&nbsp;
-![Promoted](https://img.shields.io/badge/4×_Promoted-a78bfa?style=for-the-badge&labelColor=1e1b4b&color=1e1b4b)
-&nbsp;
-![Students](https://img.shields.io/badge/500+_Students_Mentored-60a5fa?style=for-the-badge&labelColor=0c1a2e&color=0c1a2e)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=katukurijaswanth2&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+<br />
+
+<a href="https://jaswanthkatukuri4.vercel.app/"><img src="https://img.shields.io/badge/Live_site-jaswanthkatukuri4.vercel.app-5c61fb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0c0c12" alt="Live site" /></a>
+<a href="https://www.linkedin.com/in/jaswanth-katukuri-a00a87307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@katukurijaswanth2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://x.com/kjaswanth_2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/katukurijaswanth2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:katukurijaswanth2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Projects-10%2B-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="10+ projects" />
+<img src="https://img.shields.io/badge/Articles-20%2B-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="20+ articles" />
+<img src="https://img.shields.io/badge/Degree-MCA-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="MCA" />
+<img src="https://img.shields.io/badge/Focus-Java_%2B_Spring_Boot_%2B_React-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Focus" />
+
+<br /><br />
+
+<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/stargazers"><img src="https://img.shields.io/github/stars/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Stars" /></a>
+<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/network/members"><img src="https://img.shields.io/github/forks/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Forks" /></a>
+<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/commits/main"><img src="https://img.shields.io/github/last-commit/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Last commit" /></a>
 
 </div>
 
-<br/>
+<br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+## Overview
 
----
+This portfolio presents my work as a **Full-Stack Java Developer** working with Java, Spring Boot, and React. It follows the order a recruiter or engineer actually scans a portfolio, and each step answers one question.
 
-<br/>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#about_section"><img src="https://img.shields.io/badge/1-Who_I_am-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Who I am" /></a></td>
+    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#growth_section"><img src="https://img.shields.io/badge/2-How_I_got_here-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="How I got here" /></a></td>
+    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#skills-section"><img src="https://img.shields.io/badge/3-What_I_can_do-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="What I can do" /></a></td>
+    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#service"><img src="https://img.shields.io/badge/4-What_I've_built-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="What I've built" /></a></td>
+    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#contact_section"><img src="https://img.shields.io/badge/5-Reach_me-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Reach me" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub>About and key stats</sub></td>
+    <td align="center" valign="top"><sub>Education timeline</sub></td>
+    <td align="center" valign="top"><sub>Skills and roles</sub></td>
+    <td align="center" valign="top"><sub>Projects and articles</sub></td>
+    <td align="center" valign="top"><sub>Contact form</sub></td>
+  </tr>
+</table>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+The design goal is a confident editorial feel: large expressive type, high-contrast dark surfaces, and motion that earns its place. Content and performance come before decoration.
 
-### `whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
 
-I build **production-grade full-stack systems** that teams trust and users rely on. RESTful API design and relational schema modeling on the backend — component-driven React UIs on the frontend.
+## Tech stack
 
-Promoted **4 times in 1.5 years** not by luck, but by caring about the decisions behind the code: schema design, API contracts, service boundaries, and building for maintainability at scale.
+<div align="center">
+<a href="https://github.com/katukurijaswanth2?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,redux,tailwind,vite,d3,mysql,js,html,css,git,github,maven,postman,idea,vercel&perline=9&theme=dark" alt="Tech stack icons" />
+</a>
+</div>
 
-Lately going deep on **AI integration** — wiring LLM APIs into real products, not just demos.
+<br />
 
-```java
-class Jaswanth extends Engineer {
-  String[]  stack      = {"Java", "Spring Boot", "React", "PostgreSQL"};
-  String[]  ai         = {"LLM APIs", "Prompt Engineering"};
-  int       promotions = 4;  // in 18 months
-  String    status     = "Open to Full Stack / Backend roles 🚀";
-}
+<table width="100%">
+  <tr>
+    <td width="170" align="center" valign="middle"><img src="https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Backend" /></td>
+    <td valign="middle"><a href="https://www.java.com"><b>Java</b></a> · <a href="https://spring.io/projects/spring-boot"><b>Spring Boot</b></a> · Spring MVC · Spring Data JPA (Hibernate) · RESTful APIs</td>
+    <td width="130" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="36" alt="Java, Spring" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="Frontend" /></td>
+    <td valign="middle"><a href="https://react.dev"><b>React</b></a> · <a href="https://vite.dev"><b>Vite</b></a> · React Router DOM · Redux Toolkit · <a href="https://tailwindcss.com">Tailwind CSS</a> · HTML · CSS · JavaScript</td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" height="36" alt="React, Vite, Tailwind" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Data_viz-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="Data visualization" /></td>
+    <td valign="middle"><a href="https://d3js.org"><b>D3.js</b></a> for SVG axes, scales, and the education area chart</td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=d3&theme=dark" height="36" alt="D3" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" /></td>
+    <td valign="middle"><a href="https://www.mysql.com"><b>MySQL</b></a> · SQL</td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="36" alt="MySQL" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Tooling-181717?style=for-the-badge&logo=git&logoColor=white" alt="Tooling" /></td>
+    <td valign="middle">Git · GitHub · Maven · Postman · JUnit · IntelliJ IDEA</td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea&theme=dark" height="36" alt="Tooling" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Design-5c61fb?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Design" /></td>
+    <td valign="middle">Custom CSS · Font Awesome · Lucide React · Devicon · Syne · DM Sans · Playfair Display · Gelasio · Alex Brush</td>
+    <td align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Hosting-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hosting" /></td>
+    <td valign="middle"><a href="https://vercel.com"><b>Vercel</b></a> with automatic deploys on every push</td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="36" alt="Vercel" /></td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
+
+## What's inside
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/"><img src="https://img.shields.io/badge/Hero-5c61fb?style=flat-square&labelColor=0c0c12" alt="Hero" /></a><br />
+      <b>Full-bleed portrait</b><br />
+      <sub>Oversized display name, glass navigation, and a social rail.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#about_section"><img src="https://img.shields.io/badge/About-5c61fb?style=flat-square&labelColor=0c0c12" alt="About" /></a><br />
+      <b>Bio and key stats</b><br />
+      <sub>Illustrated portrait card with projects and degree at a glance.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#growth_section"><img src="https://img.shields.io/badge/Education-F9A03C?style=flat-square&labelColor=0c0c12" alt="Education" /></a><br />
+      <b>Interactive D3 area chart</b><br />
+      <sub>Path from 10th grade to Full-Stack Java, one point per milestone.</sub>
+    </td>
+    <td valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#skills-section"><img src="https://img.shields.io/badge/Skills-5c61fb?style=flat-square&labelColor=0c0c12" alt="Skills" /></a><br />
+      <b>Technical skill cards</b><br />
+      <sub>Backend, frontend, database, and tooling in one grid.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#service"><img src="https://img.shields.io/badge/Services-5c61fb?style=flat-square&labelColor=0c0c12" alt="Services" /></a><br />
+      <b>Four roles</b><br />
+      <sub>Full Stack, Front End, Back End, and Software Developer.</sub>
+    </td>
+    <td valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#service"><img src="https://img.shields.io/badge/Projects-6DB33F?style=flat-square&labelColor=0c0c12" alt="Projects" /></a><br />
+      <b>Scrollable galleries</b><br />
+      <sub>Separate rows for Front End, Back End, and Full Stack work.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#myBlogu"><img src="https://img.shields.io/badge/Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Articles" /></a><br />
+      <b>Medium writing</b><br />
+      <sub>Featured posts with stats and a 3D hover-to-reveal link.</sub>
+    </td>
+    <td valign="top">
+      <a href="https://jaswanthkatukuri4.vercel.app/#contact_section"><img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&labelColor=0c0c12" alt="Contact" /></a><br />
+      <b>Validated message form</b><br />
+      <sub>Direct contact details next to the form.</sub>
+    </td>
+  </tr>
+</table>
+
+### Education timeline
+
+<div align="center">
+<a href="https://jaswanthkatukuri4.vercel.app/#growth_section">
+  <img src="https://quickchart.io/chart?f=svg&w=900&h=380&bkg=%230c0c12&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%2210th%22%2C%22Inter%22%2C%22B.Sc%22%2C%22Teaching%22%2C%22MCA%20I%22%2C%22MCA%20II%22%2C%22Full-Stack%20Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B2%2C4%2C3.5%2C6%2C8%2C9%2C10%5D%2C%22fill%22%3Atrue%2C%22borderColor%22%3A%22%235c61fb%22%2C%22backgroundColor%22%3A%22rgba%2892%2C97%2C251%2C0.28%29%22%2C%22borderWidth%22%3A4%2C%22pointRadius%22%3A6%2C%22pointBackgroundColor%22%3A%22%230c0c12%22%2C%22pointBorderColor%22%3A%22%235c61fb%22%2C%22lineTension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22My%20education%20-%20progress%20isn%27t%20linear%2C%20commitment%20is.%22%2C%22fontColor%22%3A%22%23e8e9ff%22%2C%22fontSize%22%3A18%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22min%22%3A0%2C%22max%22%3A10%2C%22fontColor%22%3A%22%238b8fb8%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.06%29%22%7D%7D%5D%2C%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23c9cbff%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D" alt="Education timeline rising from 10th grade to Full-Stack Java" width="90%" />
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
+
+## Featured projects
+
+Each card pulls live data from its repository. Use the buttons underneath to open the code or the demo.
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/katukurijaswanth2/KatukuriXpress"><img src="src/assets/KatukuriXpress.png" alt="KatukuriXpress" width="100%" /></a><br />
+      <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
+      <sub>Responsive site with React.js, Tailwind CSS, Redux Toolkit, and JavaScript.</sub><br />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,redux,js&theme=dark" height="30" alt="React, Tailwind, Redux, JavaScript" /><br />
+      <a href="https://katukurixpress.vercel.app/"><img src="https://img.shields.io/badge/View_live-5c61fb?style=for-the-badge&logo=vercel&logoColor=white" alt="View live" /></a>
+      <a href="https://github.com/katukurijaswanth2/KatukuriXpress.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/katukurijaswanth2/Foodiego"><img src="src/assets/foodieGo.jpg" alt="FoodieGo" width="100%" /></a><br />
+      <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
+      <sub>Responsive shopping website built with HTML, CSS, and JavaScript.</sub><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="30" alt="HTML, CSS, JavaScript" /><br />
+      <a href="https://foodiego-by-jaswanth.vercel.app/"><img src="https://img.shields.io/badge/View_live-5c61fb?style=for-the-badge&logo=vercel&logoColor=white" alt="View live" /></a>
+      <a href="https://github.com/katukurijaswanth2/Foodiego.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/katukurijaswanth2/Scholarship-Finder"><img src="src/assets/Grantify.png" alt="Grantify" width="100%" h /></a><br />
+      <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
+      <sub>Grantify helps students find scholarships by income, state, and education level.</sub><br />
+      <a href="https://scholarpath-gamma.vercel.app/"><img src="https://img.shields.io/badge/View_live-5c61fb?style=for-the-badge&logo=vercel&logoColor=white" alt="View live" /></a>
+      <a href="https://github.com/katukurijaswanth2/Scholarship-Finder.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+    </td>
+   <td width="50%" align="center" valign="top">
+      <a href="https://github.com/katukurijaswanth2/drivewise"><img src="src/assets/drivewise.png" alt="DriveWise" width="100%" /></a><br />
+      <img src="https://img.shields.io/badge/Front_End-61DAFB?style=flat-square&labelColor=0c0c12&color=61DAFB" alt="Front End" /><br />
+      <sub>DriveWise recommends vehicles based on your income for smarter choices.</sub><br />
+      <a href="https://github.com/katukurijaswanth2/drivewise.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/katukurijaswanth2/javaProjects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=katukurijaswanth2&repo=javaProjects&theme=tokyonight&bg_color=0c0c12&title_color=5c61fb&icon_color=5c61fb&hide_border=true" alt="PriorityCare" width="100%" /></a><br />
+      <img src="https://img.shields.io/badge/Back_End-6DB33F?style=flat-square&labelColor=0c0c12&color=6DB33F" alt="Back End" /><br />
+      <sub>PriorityCare is a hospital triage system that ranks patients with efficient data structures.</sub><br />
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" height="30" alt="Java" /><br />
+      <a href="https://github.com/katukurijaswanth2/javaProjects.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/katukurijaswanth2/employee_management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=katukurijaswanth2&repo=employee_management&theme=tokyonight&bg_color=0c0c12&title_color=5c61fb&icon_color=5c61fb&hide_border=true" alt="WorkForceHub" width="100%" /></a><br />
+      <img src="https://img.shields.io/badge/Back_End-6DB33F?style=flat-square&labelColor=0c0c12&color=6DB33F" alt="Back End" /><br />
+      <sub>WorkForceHub is a Spring Boot employee management REST API with secure CRUD and MySQL.</sub><br />
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="30" alt="Java, Spring, MySQL" /><br />
+      <a href="https://github.com/katukurijaswanth2/employee_management.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+    </td>
+  </tr>
+</table>
+
+## Technical articles
+
+I publish on Medium about Java, Spring Boot, React, system design, AI, and career growth.
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Opinion-E4405F?style=flat-square&labelColor=0c0c12" alt="Opinion" /><br /><br />
+      <b>When AI Starts Selling</b><br /><br />
+      <sub>Why the bigger worry with AI is not lost jobs, but the recommendations it makes.</sub><br /><br />
+      <a href="https://medium.com/@katukurijaswanth2/when-ai-starts-selling-why-we-need-to-watch-our-recommendations-closely-c7d734d3843f?sharedUserId=katukurijaswanth2"><img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Career-F9A03C?style=flat-square&labelColor=0c0c12" alt="Career" /><br /><br />
+      <b>Passed 10th Math? Then DSA Is Not Hard</b><br /><br />
+      <sub>A reminder to new coders: your 10th class exam habits still apply.</sub><br /><br />
+      <a href="https://medium.com/@katukurijaswanth2/passed-10th-math-then-dsa-is-not-hard-the-exact-same-trick-applies-311ba8598610?sharedUserId=katukurijaswanth2"><img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/Engineering-5c61fb?style=flat-square&labelColor=0c0c12" alt="Engineering" /><br /><br />
+      <b>Why I Stopped Shipping One Giant Bundle</b><br /><br />
+      <sub>How lazy loading and code splitting changed the way I deploy React apps.</sub><br /><br />
+      <a href="https://medium.com/@katukurijaswanth2/why-i-stopped-shipping-one-giant-javascript-bundle-1061440ba894?sharedUserId=katukurijaswanth2"><img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" /></a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
+
+## GitHub activity
+
+<div align="center">
+<a href="https://github.com/katukurijaswanth2">
+  <img src="https://streak-stats.demolab.com?user=katukurijaswanth2&theme=tokyonight&background=0c0c12&ring=5c61fb&fire=5c61fb&currStreakLabel=5c61fb&hide_border=true" alt="GitHub streak" />
+</a>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
+
+## Design and engineering decisions
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Typography-5c61fb?style=flat-square&labelColor=0c0c12" alt="Typography" /><br />
+      <b>Type is the main visual</b><br />
+      <sub>A heavy display face carries the hero, a clean grotesque handles interface text, and a calligraphic script marks accent words. Hierarchy comes from type, not extra imagery.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Responsive-5c61fb?style=flat-square&labelColor=0c0c12" alt="Responsive" /><br />
+      <b>A separate mobile hero</b><br />
+      <sub>Small screens get a dedicated profile card and slide-in menu instead of a squeezed desktop layout.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Data-F9A03C?style=flat-square&labelColor=0c0c12" alt="Data" /><br />
+      <b>Charts drawn as SVG</b><br />
+      <sub>The education chart is built with D3 as vector graphics, so it stays sharp at any resolution and every milestone is interactive.</sub>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Performance-6DB33F?style=flat-square&labelColor=0c0c12" alt="Performance" /><br />
+      <b>Fast by default</b><br />
+      <sub><code>preconnect</code> and <code>dns-prefetch</code>, <code>display=swap</code> on fonts, native <code>loading="lazy"</code>, and WebP for large imagery.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/SEO-E4405F?style=flat-square&labelColor=0c0c12" alt="SEO" /><br />
+      <b>Built to be found and shared</b><br />
+      <sub>Semantic sections with anchor IDs, Open Graph and Twitter Card metadata, JSON-LD <code>Person</code> schema, canonical URL, and theme color <code>#5c61fb</code>.</sub>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Accessibility-0A66C2?style=flat-square&labelColor=0c0c12" alt="Accessibility" /><br />
+      <b>Usable by everyone</b><br />
+      <sub><code>aria-label</code> on icon-only buttons, <code>aria-hidden</code> on decorative SVGs, <code>rel="noopener noreferrer"</code> on external links, and descriptive <code>alt</code> text.</sub>
+    </td>
+  </tr>
+</table>
+
+## Getting started
+
+<table width="100%">
+  <tr>
+    <td width="170" valign="top"><img src="https://img.shields.io/badge/Requirements-181717?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Requirements" /></td>
+    <td valign="top">Node.js 18 or later, and npm, yarn, or pnpm.</td>
+  </tr>
+</table>
+
+```bash
+git clone https://github.com/katukurijaswanth2/Portfolio_on_react.git
+cd Portfolio_on_react
+npm install
+npm run dev
 ```
 
-<br clear="right"/>
+Production build and local preview:
 
----
+```bash
+npm run build
+npm run preview
+```
 
-## 🛠️ Tech Stack
+## Deployment
 
-<br/>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><img src="https://img.shields.io/badge/1-Fork-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Step 1" /><br /><sub>Fork this repository to your account.</sub></td>
+    <td width="33%" valign="top"><img src="https://img.shields.io/badge/2-Import-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Step 2" /><br /><sub>Import it at <a href="https://vercel.com/new">vercel.com/new</a>.</sub></td>
+    <td width="33%" valign="top"><img src="https://img.shields.io/badge/3-Deploy-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Step 3" /><br /><sub>Keep the Vite defaults: build <code>npm run build</code>, output <code>dist</code>.</sub></td>
+  </tr>
+</table>
 
-**⚙️ Backend**
+Every push to `main` triggers a new production build on Vercel.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1e1b4b?style=flat-square&logoColor=white)
+## Customization
 
-**⚛️ Frontend**
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">To change</th>
+      <th align="left">Edit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><b>Profile and About</b></td><td><code>src/components/features/about/</code> and <code>Hero.jsx</code></td></tr>
+    <tr><td><b>Projects</b></td><td>The Front End, Back End, and Full Stack data files</td></tr>
+    <tr><td><b>Articles</b></td><td>Medium titles, excerpts, images, and links</td></tr>
+    <tr><td><b>Resume</b></td><td>The PDF in assets, plus the filename referenced in the nav</td></tr>
+    <tr><td><b>Theme and accent</b></td><td>The global stylesheet. The accent is <code>#5c61fb</code>.</td></tr>
+    <tr><td><b>Contact form</b></td><td><code>src/components/Contactform/</code></td></tr>
+  </tbody>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+## Roadmap
 
-**🗄️ Database**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Next-5c61fb?style=flat-square&labelColor=0c0c12" alt="Next" /><br />
+      ☐ Connect the contact form to a serverless email endpoint<br />
+      ☐ Add a light theme<br />
+      ☐ Run Lighthouse CI on every deploy
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Later-8b8fb8?style=flat-square&labelColor=0c0c12" alt="Later" /><br />
+      ☐ Write case studies for featured projects<br />
+      ☐ Add unit tests for interactive components
+    </td>
+  </tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**🤖 AI & DevOps**
-
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412402?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
-
-## Shipped Projects
-
-<br/>
-
-> ###  Meal Prep Planner &nbsp; `[ Latest ]`
-> *Full-stack meal planning — from food discovery to kitchen execution*
->
-> `React` &nbsp; `SpringBoot` &nbsp; `Express` &nbsp; `PostgreSQL` &nbsp; `MealDB API`
->
-> → Dynamic category browsing from MealDB API with React routing (`/category/:name`)  
-> → REST API: `GET` · `POST` · `DELETE /api/meals` with full PostgreSQL persistence  
-> → Personal cooking queue — save YouTube tutorial links, delete after cooking  
-> → DB schema: `meal_planner(id, item_name, youtube_link, image_url, created_at)`
-
-<br/>
-
-> ###  Full-Stack Job Portal
-> *End-to-end hiring platform connecting candidates and employers*
->
-> `Spring Boot` &nbsp; `React` &nbsp; `MySQL` &nbsp; `REST APIs`
->
-> → RESTful APIs serving the full job lifecycle — posting, applying, filtering  
-> → React frontend with responsive design and third-party integrations  
-> → Layered MVC architecture built for scale and team handoff
-
-<br/>
-
-> ###  AI-Powered Web Features
-> *LLM intelligence wired into real full-stack production apps*
->
-> `LLM APIs` &nbsp; `Java` &nbsp; `React` &nbsp; `Prompt Engineering`
->
-> → LLM APIs integrated into production features — not demos, real shipped AI  
-> → Built intelligent automation workflows and reusable prompt pipelines  
-> → Explored AI-enhanced UX patterns across full-stack architectures
-
-<br/>
-
-> ###  Library Management System
-> *Clean CRUD with maintainable layered architecture*
->
-> `Spring Boot` &nbsp; `MySQL` &nbsp; `JPA/Hibernate`
->
-> → Book, member and transaction management with clean MVC design  
-> → Service separation, schema optimized for reads, built for team onboarding
-
-<br/>
-
-> ###  Responsive School Website
-> *Performance-first, mobile-ready public-facing site*
->
-> `React` &nbsp; `CSS3` &nbsp; `Responsive Design`
->
-> → Mobile-first design, performance-optimized, deployed to production  
-> → Component-driven architecture with fast load times across all devices
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
-
-## ⚡ Impact at a Glance
+## Contact
 
 <div align="center">
-<br/>
 
-![4x](https://img.shields.io/badge/4×_PROMOTIONS-a78bfa?style=for-the-badge&labelColor=1e1b4b)
-&nbsp;&nbsp;
-![18mo](https://img.shields.io/badge/18_MONTHS-60a5fa?style=for-the-badge&labelColor=0c1a2e)
-&nbsp;&nbsp;
-![students](https://img.shields.io/badge/500+_STUDENTS-4ade80?style=for-the-badge&labelColor=052e16)
-&nbsp;&nbsp;
-![projects](https://img.shields.io/badge/5_PROJECTS_SHIPPED-fbbf24?style=for-the-badge&labelColor=2a1a00)
+<a href="mailto:katukurijaswanth2@gmail.com"><img src="https://img.shields.io/badge/Email-katukurijaswanth2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/jaswanth-katukuri-a00a87307/"><img src="https://img.shields.io/badge/LinkedIn-jaswanth--katukuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br />
+<a href="https://github.com/katukurijaswanth2"><img src="https://img.shields.io/badge/GitHub-katukurijaswanth2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://medium.com/@katukurijaswanth2"><img src="https://img.shields.io/badge/Medium-@katukurijaswanth2-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<br />
+<a href="https://x.com/kjaswanth_2"><img src="https://img.shields.io/badge/X-@kjaswanth__2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.instagram.com/jashuuuu.4/"><img src="https://img.shields.io/badge/Instagram-@jashuuuu.4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<br/><br/>
-
-| | |
-|:---|:---|
-| 🥇 &nbsp; **4× Promoted in 18 Months** | Grew from junior contributor to consistently trusted engineer by delivering quality at velocity |
-| 👨‍🏫 &nbsp; **500+ Students Trained** | Mentored a large student cohort in Frontend Development fundamentals |
-| 🏅 &nbsp; **Software Expo 2024** | Led a team project recognized at the Software Expo 2024 showcase |
-| 📄 &nbsp; **Best Presentation — NLP** | Awarded Best Presentation for research on Natural Language Processing |
+<sub>Full-Stack Java Developer · Telangana, India</sub>
 
 </div>
 
-<br/>
+## License
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+Released under the [MIT License](./LICENSE). Please don't reuse my photos, résumé, or written content without permission.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=katukurijaswanth2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katukurijaswanth2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=e2e8f0" height="180"/>
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=katukurijaswanth2&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=64748b" height="165"/>
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=katukurijaswanth2&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="96%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
-
-## 📝 What I Write About
-
-On LinkedIn I share **practical insights** for working engineers — patterns from real projects, not textbook theory:
-
-- **`Java & Spring Boot`** — Backend patterns, API design, Spring Security, service architecture
-- **`React & JavaScript`** — Component design, state management, ES6+ fundamentals  
-- **`System Design`** — Practical concepts for everyday engineers, not just FAANG prep
-- **`AI Integration`** — Adding LLM features into real full-stack production apps
-- **`Career Growth`** — Real lessons from earning 4 promotions in 18 months
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="72"/>
-
-<br/><br/>
-
-**Currently open to** &nbsp; `Full Stack Engineer` &nbsp; · &nbsp; `Backend Java Developer` &nbsp; · &nbsp; `Software Engineer`
-
-*Teams building ambitious products where engineering quality and delivery velocity both matter.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/jaswanth-katukuri-a00a87307/)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:katukurijaswanth2@gmail.com)
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:12102a,100:0a0a0f&height=130&section=footer&stroke=7c3aed&strokeWidth=2"/>
+<!-- ═══════════ FOOTER ═══════════ -->
+<a href="https://jaswanthkatukuri4.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:3b82f6,50:5c61fb,100:0c0c12&section=footer&text=Designed%20and%20built%20by%20Jaswanth%20Katukuri&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" alt="Designed and built by Jaswanth Katukuri" width="100%" />
+</a>

@@ -313,77 +313,8 @@ I publish on Medium about Java, Spring Boot, React, system design, AI, and caree
   </tr>
 </table>
 
-## Getting started
 
-<table width="100%">
-  <tr>
-    <td width="170" valign="top"><img src="https://img.shields.io/badge/Requirements-181717?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Requirements" /></td>
-    <td valign="top">Node.js 18 or later, and npm, yarn, or pnpm.</td>
-  </tr>
-</table>
 
-```bash
-git clone https://github.com/katukurijaswanth2/Portfolio_on_react.git
-cd Portfolio_on_react
-npm install
-npm run dev
-```
-
-Production build and local preview:
-
-```bash
-npm run build
-npm run preview
-```
-
-## Deployment
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top"><img src="https://img.shields.io/badge/1-Fork-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Step 1" /><br /><sub>Fork this repository to your account.</sub></td>
-    <td width="33%" valign="top"><img src="https://img.shields.io/badge/2-Import-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Step 2" /><br /><sub>Import it at <a href="https://vercel.com/new">vercel.com/new</a>.</sub></td>
-    <td width="33%" valign="top"><img src="https://img.shields.io/badge/3-Deploy-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Step 3" /><br /><sub>Keep the Vite defaults: build <code>npm run build</code>, output <code>dist</code>.</sub></td>
-  </tr>
-</table>
-
-Every push to `main` triggers a new production build on Vercel.
-
-## Customization
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">To change</th>
-      <th align="left">Edit</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td><b>Profile and About</b></td><td><code>src/components/features/about/</code> and <code>Hero.jsx</code></td></tr>
-    <tr><td><b>Projects</b></td><td>The Front End, Back End, and Full Stack data files</td></tr>
-    <tr><td><b>Articles</b></td><td>Medium titles, excerpts, images, and links</td></tr>
-    <tr><td><b>Resume</b></td><td>The PDF in assets, plus the filename referenced in the nav</td></tr>
-    <tr><td><b>Theme and accent</b></td><td>The global stylesheet. The accent is <code>#5c61fb</code>.</td></tr>
-    <tr><td><b>Contact form</b></td><td><code>src/components/Contactform/</code></td></tr>
-  </tbody>
-</table>
-
-## Roadmap
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Next-5c61fb?style=flat-square&labelColor=0c0c12" alt="Next" /><br />
-      ☐ Connect the contact form to a serverless email endpoint<br />
-      ☐ Add a light theme<br />
-      ☐ Run Lighthouse CI on every deploy
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Later-8b8fb8?style=flat-square&labelColor=0c0c12" alt="Later" /><br />
-      ☐ Write case studies for featured projects<br />
-      ☐ Add unit tests for interactive components
-    </td>
-  </tr>
-</table>
 
 ## Contact
 

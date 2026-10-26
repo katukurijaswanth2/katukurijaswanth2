@@ -32,9 +32,9 @@ Editorial dark hero · interactive D3 education timeline · categorized projects
 
 <br /><br />
 
-<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/stargazers"><img src="https://img.shields.io/github/stars/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Stars" /></a>
+<!-- <a href="https://github.com/katukurijaswanth2/Portfolio_on_react/stargazers"><img src="https://img.shields.io/github/stars/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Stars" /></a>
 <a href="https://github.com/katukurijaswanth2/Portfolio_on_react/network/members"><img src="https://img.shields.io/github/forks/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Forks" /></a>
-<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/commits/main"><img src="https://img.shields.io/github/last-commit/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Last commit" /></a>
+<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/commits/main"><img src="https://img.shields.io/github/last-commit/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Last commit" /></a> -->
 
 </div>
 

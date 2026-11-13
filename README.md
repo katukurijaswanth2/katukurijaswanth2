@@ -11,59 +11,8 @@
 
 <br />
 
-**A fast, responsive developer portfolio built with React and Vite.**<br />
-Editorial dark hero · interactive D3 education timeline · categorized projects · Medium-powered writing
 
-<br />
 
-<a href="https://jaswanthkatukuri4.vercel.app/"><img src="https://img.shields.io/badge/Live_site-jaswanthkatukuri4.vercel.app-5c61fb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0c0c12" alt="Live site" /></a>
-<a href="https://www.linkedin.com/in/jaswanth-katukuri-a00a87307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@katukurijaswanth2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://x.com/kjaswanth_2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://github.com/katukurijaswanth2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:katukurijaswanth2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Projects-10%2B-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="10+ projects" />
-<img src="https://img.shields.io/badge/Articles-20%2B-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="20+ articles" />
-<img src="https://img.shields.io/badge/Degree-MCA-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="MCA" />
-<img src="https://img.shields.io/badge/Focus-Java_%2B_Spring_Boot_%2B_React-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Focus" />
-
-<br /><br />
-
-<!-- <a href="https://github.com/katukurijaswanth2/Portfolio_on_react/stargazers"><img src="https://img.shields.io/github/stars/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Stars" /></a>
-<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/network/members"><img src="https://img.shields.io/github/forks/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Forks" /></a>
-<a href="https://github.com/katukurijaswanth2/Portfolio_on_react/commits/main"><img src="https://img.shields.io/github/last-commit/katukurijaswanth2/Portfolio_on_react?style=flat-square&color=5c61fb&labelColor=0c0c12" alt="Last commit" /></a> -->
-
-</div>
-
-<br />
-
-## Overview
-
-This portfolio presents my work as a **Full-Stack Java Developer** working with Java, Spring Boot, and React. It follows the order a recruiter or engineer actually scans a portfolio, and each step answers one question.
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#about_section"><img src="https://img.shields.io/badge/1-Who_I_am-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Who I am" /></a></td>
-    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#growth_section"><img src="https://img.shields.io/badge/2-How_I_got_here-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="How I got here" /></a></td>
-    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#skills-section"><img src="https://img.shields.io/badge/3-What_I_can_do-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="What I can do" /></a></td>
-    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#service"><img src="https://img.shields.io/badge/4-What_I've_built-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="What I've built" /></a></td>
-    <td align="center" width="20%"><a href="https://jaswanthkatukuri4.vercel.app/#contact_section"><img src="https://img.shields.io/badge/5-Reach_me-5c61fb?style=for-the-badge&labelColor=0c0c12" alt="Reach me" /></a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><sub>About and key stats</sub></td>
-    <td align="center" valign="top"><sub>Education timeline</sub></td>
-    <td align="center" valign="top"><sub>Skills and roles</sub></td>
-    <td align="center" valign="top"><sub>Projects and articles</sub></td>
-    <td align="center" valign="top"><sub>Contact form</sub></td>
-  </tr>
-</table>
-
-The design goal is a confident editorial feel: large expressive type, high-contrast dark surfaces, and motion that earns its place. Content and performance come before decoration.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
 
 ## Tech stack
 
@@ -115,58 +64,7 @@ The design goal is a confident editorial feel: large expressive type, high-contr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0c0c12,50:5c61fb,100:0c0c12" width="100%" alt="" />
 
-## What's inside
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/"><img src="https://img.shields.io/badge/Hero-5c61fb?style=flat-square&labelColor=0c0c12" alt="Hero" /></a><br />
-      <b>Full-bleed portrait</b><br />
-      <sub>Oversized display name, glass navigation, and a social rail.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#about_section"><img src="https://img.shields.io/badge/About-5c61fb?style=flat-square&labelColor=0c0c12" alt="About" /></a><br />
-      <b>Bio and key stats</b><br />
-      <sub>Illustrated portrait card with projects and degree at a glance.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#growth_section"><img src="https://img.shields.io/badge/Education-F9A03C?style=flat-square&labelColor=0c0c12" alt="Education" /></a><br />
-      <b>Interactive D3 area chart</b><br />
-      <sub>Path from 10th grade to Full-Stack Java, one point per milestone.</sub>
-    </td>
-    <td valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#skills-section"><img src="https://img.shields.io/badge/Skills-5c61fb?style=flat-square&labelColor=0c0c12" alt="Skills" /></a><br />
-      <b>Technical skill cards</b><br />
-      <sub>Backend, frontend, database, and tooling in one grid.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#service"><img src="https://img.shields.io/badge/Services-5c61fb?style=flat-square&labelColor=0c0c12" alt="Services" /></a><br />
-      <b>Four roles</b><br />
-      <sub>Full Stack, Front End, Back End, and Software Developer.</sub>
-    </td>
-    <td valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#service"><img src="https://img.shields.io/badge/Projects-6DB33F?style=flat-square&labelColor=0c0c12" alt="Projects" /></a><br />
-      <b>Scrollable galleries</b><br />
-      <sub>Separate rows for Front End, Back End, and Full Stack work.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#myBlogu"><img src="https://img.shields.io/badge/Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Articles" /></a><br />
-      <b>Medium writing</b><br />
-      <sub>Featured posts with stats and a 3D hover-to-reveal link.</sub>
-    </td>
-    <td valign="top">
-      <a href="https://jaswanthkatukuri4.vercel.app/#contact_section"><img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&labelColor=0c0c12" alt="Contact" /></a><br />
-      <b>Validated message form</b><br />
-      <sub>Direct contact details next to the form.</sub>
-    </td>
-  </tr>
-</table>
 
 ### Education timeline
 
